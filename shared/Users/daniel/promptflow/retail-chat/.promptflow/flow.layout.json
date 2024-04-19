@@ -23,6 +23,18 @@
       "height": 75,
       "index": 1
     },
+    "RetrieveDocuments": {
+      "x": 128,
+      "y": 392,
+      "height": 75,
+      "index": 2
+    },
+    "FormatRetrievedDocuments": {
+      "x": 128,
+      "y": 502,
+      "height": 75,
+      "index": 3
+    },
     "FormatConversation": {
       "x": 419,
       "y": 282,
@@ -40,18 +52,6 @@
       "y": 722,
       "height": 75,
       "index": 6
-    },
-    "FormatRetrievedDocuments": {
-      "x": 128,
-      "y": 502,
-      "height": 75,
-      "index": 3
-    },
-    "RetrieveDocuments": {
-      "x": 128,
-      "y": 392,
-      "height": 75,
-      "index": 2
     }
   },
   "viewport": {
@@ -60,7 +60,7 @@
       0,
       0,
       1,
-      -10.22161865234375,
+      76.38919067382812,
       -215.34518432617188
     ]
   }
